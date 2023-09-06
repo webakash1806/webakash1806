@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **LMS**
 
-- 🌱 I’m currently learning **React from PW Skills**
-
 - 👯 I’m looking to collaborate on **Ideas of any web dev Project**
 
-- 💬 Ask me about **HTML, CSS, JS, NodeJS, Express**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, TailwindCSS, NodeJS, Express**
 
 - 📫 How to reach me **itsakash18.06@gmail.com**
 
