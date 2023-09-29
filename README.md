@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/__its_akash18" target="blank"><img src="https://img.shields.io/twitter/follow/__its_akash18?logo=twitter&style=for-the-badge" alt="__its_akash18" /></a> </p>
 
-- 🔭 I’m currently working on **LMS**
+- 🔭 I’m currently working on **LMS and CryptoWorld**
 
 - 👯 I’m looking to collaborate on **Ideas of any web dev Project**
 
